@@ -1,0 +1,1 @@
+./dataset/fonts/Microsoft（微软）/简体/仿宋_GB2312.ttf # other: OSError('cannot write mode RGBA as JPEG')

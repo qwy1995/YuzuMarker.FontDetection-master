@@ -1,0 +1,4 @@
+./dataset/fonts/Microsoft（微软）/简体/仿宋_GB2312.ttf # other: OSError('cannot write mode RGBA as JPEG')
+./dataset/fonts/Microsoft（微软）/简体/方正小标宋_GBK.TTF # other: OSError('cannot write mode RGBA as JPEG')
+./dataset/fonts/Microsoft（微软）/简体/楷体_GB2312.ttf # other: OSError('cannot write mode RGBA as JPEG')
+./dataset/fonts/Microsoft（微软）/简体/黑体.ttf # other: OSError('cannot write mode RGBA as JPEG')
